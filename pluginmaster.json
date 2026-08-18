@@ -11,8 +11,8 @@
     "Tags": [
     ],
     "RepoUrl": "https://github.com/Aporiyan/Chrysalism",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Aporiyan/Chrysalism/main/Chrysalism.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Aporiyan/Chrysalism/main/Chrysalism.zip",
+    "DownloadLinkInstall": "https://cdn.jsdelivr.net/gh/Aporiyan/Chrysalism@main/Chrysalism.zip",
+    "DownloadLinkUpdate": "https://cdn.jsdelivr.net/gh/Aporiyan/Chrysalism@main/Chrysalism.zip",
     "DownloadLinkTesting": "",
     "LoadRequiredState": 0,
     "LoadSync": false,
