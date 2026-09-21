@@ -13,7 +13,7 @@
       "utility"
     ],
     "RepoUrl": "https://github.com/Aporiyan/Chrysalism",
-    "IconUrl": "https://cdn.jsdelivr.net/gh/Aporiyan/Chrysalism@main/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Aporiyan/Chrysalism/main/images/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Aporiyan/Chrysalism/main/Chrysalism.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Aporiyan/Chrysalism/main/Chrysalism.zip",
     "DownloadLinkTesting": "",
